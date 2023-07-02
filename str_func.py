@@ -5,6 +5,3 @@ def str_def_upper(str_):
 def str_title(str_):
     """    """
     return str_.title()
-
-
-
