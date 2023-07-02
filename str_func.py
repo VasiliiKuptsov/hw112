@@ -1,3 +1,6 @@
+def str_upper(str_):
+    return str_.upper()
+
 def str_def_upper(str_):
     """   """
     return str_.upper()
